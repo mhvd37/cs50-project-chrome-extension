@@ -1,4 +1,15 @@
 # New Tab Quotes Chrome Extension
+#### Video Demo:  <URL HERE>
+#### Description:
+cs50-project-chrome-extension
+
+Mohammed Babaali
+
+github : @mhvd37  / edx : @mohammedbabaali
+
+Casablanca,Morocco
+
+04/Mars/2025
 
 Every time you open a new tab, this extension will show you a motivational quote to brighten your day.
 
