@@ -1,5 +1,5 @@
 # New Tab Quotes Chrome Extension
-#### Video Demo:  <URL HERE>
+#### Video Demo:  (https://youtu.be/v_-A-RXRKNw)
 #### Description:
 cs50-project-chrome-extension
 
